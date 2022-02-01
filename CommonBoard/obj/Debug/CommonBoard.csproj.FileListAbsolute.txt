@@ -1,0 +1,12 @@
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\bin\Debug\CommonBoard.exe.config
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\bin\Debug\CommonBoard.exe
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\bin\Debug\CommonBoard.pdb
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.Properties.Resources.resources
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.exe
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.pdb
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.Form1.resources
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.GetBoardForm.resources
+C:\Users\Антон\source\repos\CommonBoard\CommonBoard\obj\Debug\CommonBoard.HostBoardForm.resources
